@@ -1,10 +1,16 @@
 _repo: Round-about-Bar-le-Duc_50071
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50071-h/images/cover.jpg
 creator:
   author:
     agent_name: Day, Susanne R.
     gutenberg_agent_id: '45691'
     url: http://www.gutenberg.org/2009/agents/45691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50071#Round-about-Bar-le-Duc
 gutenberg_issued: '2015-09-28'
 gutenberg_type: Text
 identifiers:
